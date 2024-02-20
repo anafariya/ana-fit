@@ -7,3 +7,8 @@ export interface CustomButtonProps{
     MouseEventHandler <HTMLButtonElement>
     btnType?: "button" | "submit"
 }
+
+export interface SearchMuscleGroupProps {
+    muscleGroup: string
+    setMuscleGroup: (muscleGroup:string) => void
+}

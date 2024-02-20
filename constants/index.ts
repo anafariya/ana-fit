@@ -1,4 +1,19 @@
+export const muscleGroups = [
+  "Chest",
+  "Back",
+  "Shoulders",
+  "Legs",
+  "Arms (Biceps and Triceps)",
+  "Core",
+  "Glutes",
+  "Hamstrings",
+  "Calves",
+  "Cardiovascular"
+];
+
+
 export const footerLinks = [
+  
     {
         title: "Socials",
         links: [
